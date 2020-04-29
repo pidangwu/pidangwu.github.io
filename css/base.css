@@ -500,7 +500,7 @@ template {
 ---------------------------*/
 /* Globel */
 body,html{
-  font-family: 'Helvetica', 'roboto', arial, sans-serif;
+  font-family: 'Raleway', 'Helvetica', 'roboto', arial, sans-serif;
 }
 /* heading */
 h1,h2,h3,h4,h5,h6{
@@ -510,21 +510,21 @@ h1,h2,h3,h4,h5,h6{
 h1{
   font-size: 80px;
   font-weight: 800;
-  font-family: 'Helvetica', 'roboto', arial, sans-serif;
+  font-family: 'Raleway', 'Helvetica', 'roboto', arial, sans-serif;
   margin-top: 24px;
   margin-bottom: 24px;
 }
 h2{
   font-size: 48px;
   font-weight: 600;
-  font-family: 'Helvetica', 'roboto', arial, sans-serif;
+  font-family: 'Raleway', 'Helvetica', 'roboto', arial, sans-serif;
   margin-top: 24px;
   margin-bottom: 24px;
 }
 h3{
   font-size: 40px;
   font-weight: 600;
-  font-family: 'Helvetica', 'roboto', arial, sans-serif;
+  font-family: 'Raleway', 'Helvetica', 'roboto', arial, sans-serif;
   line-height: 48px;
   margin-top: 24px;
   margin-bottom: 24px;
@@ -532,7 +532,7 @@ h3{
 h4{
   font-size: 24px;
   font-weight: 600;
-  font-family: 'Helvetica', 'roboto', arial, sans-serif;
+  font-family: 'Raleway', 'Helvetica', 'roboto', arial, sans-serif;
   line-height: 32px;
   margin-top: 24px;
   margin-bottom: 24px;
@@ -540,7 +540,7 @@ h4{
 h5{
   font-size: 20px;
   font-weight: 400;
-  font-family: 'Helvetica', 'roboto', arial, sans-serif;
+  font-family: 'Raleway', 'Helvetica', 'roboto', arial, sans-serif;
   line-height: 1;
   margin-top: 24px;
   margin-bottom: 16px;
@@ -548,7 +548,7 @@ h5{
 h6{
   font-size: 18px;
   font-weight: 400;
-  font-family: 'Helvetica', 'roboto', arial, sans-serif;
+  font-family: 'Raleway', 'Helvetica', 'roboto', arial, sans-serif;
   line-height: 32px;
   margin-top: 24px;
   margin-bottom: 16px;
@@ -556,7 +556,7 @@ h6{
 p{
   font-size: 16px;
   font-weight: 400;
-  font-family: 'Helvetica', 'roboto', arial, sans-serif;
+  font-family: 'Raleway', 'Helvetica', 'roboto', arial, sans-serif;
   line-height: 32px;
   letter-spacing: 0;
   margin-bottom: 16px;
