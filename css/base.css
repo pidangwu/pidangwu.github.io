@@ -482,14 +482,14 @@ template {
 ---------------------------*/
 /* background color */
 .bg-color-primary{background-color: #6487f5;}
-.bg-color-secondary{background-color: #ff638f;}
+.bg-color-secondary{background-color: #ff5331;}
 .bg-color-black{background-color: #484848;}
 .bg-color-grey{background-color: #cbcbcb;}
 .bg-color-white{background-color: #fefefe;}
 
 /* text color */
 .color-primary{color: #6487f5;}
-.color-secondary{color: #ff638f;}
+.color-secondary{color: #ff5331;}
 .color-black{color: #484848;}
 .color-grey{color: #cbcbcb;}
 .color-white{color: #fefefe;}
