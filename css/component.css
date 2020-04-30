@@ -112,7 +112,6 @@
     letter-spacing: 0;
     text-decoration: none;
     background-color: #d1d2d3;
-    border: 0;
     border-radius: 18px;
     outline: 0;
     cursor: pointer;
@@ -123,10 +122,12 @@
 }
 .btn--primary,
 .btn--secondary{
-    color: #fefefe;
+    color: #000;
+    border: 3px solid #000;
 }
 .btn.btn--primary{
     background-color: #ff5331;
+    border: 3px solid #ff5331;
 }
 .btn.btn--primary:hover,
 .btn.btn--primary:active{
@@ -134,7 +135,7 @@
 }
 .btn.btn--secondary{
     background-color: inherit;
-    border: 1px solid #ff5331;
+    border: 3px solid #ff5331;
     color: #ff5331;
 }
 .btn.btn--secondary:hover,
@@ -403,6 +404,7 @@
 .hero{
     padding-top: 20vh;
     padding-bottom: 20vh;
+    height: 100vh;
 }
 @media (max-width: 480px){
     .hero{
